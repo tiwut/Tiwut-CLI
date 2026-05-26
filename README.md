@@ -1,4 +1,4 @@
-# Tiwut-CLI: Cyberpunk Terminal TUI Desktop Dashboard
+# Tiwut-CLI: Terminal TUI Desktop Dashboard
 
 Tiwut-CLI is an advanced, lightweight, single-window terminal desktop environment and interactive widget dashboard written in native C++ using Ncurses. Designed for speed, minimal resource footprints, and complete user autonomy, Tiwut-CLI turns standard console spaces into a multi-pane navigable cyberpunk workstation. 
 
