@@ -1,0 +1,5 @@
+{
+    "name": "Tiwut GitHub",
+    "icon": "[G]",
+    "exec": "xdg-open https://github.com/tiwut"
+}

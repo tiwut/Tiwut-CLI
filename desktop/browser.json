@@ -1,0 +1,5 @@
+{
+    "name": "Tiwut Website",
+    "icon": "[W]",
+    "exec": "xdg-open https://tiwut.org/"
+}

@@ -1,1 +1,30 @@
-
+[
+  {
+    "id": "neofetch-lite",
+    "name": "Neofetch Lite",
+    "icon": "[N]",
+    "version": "1.1.0",
+    "description": "A lightweight system information display utility written in bash.",
+    "supported_os": "linux,macos",
+    "dependencies": "curl,bash",
+    "download_url": "https://raw.githubusercontent.com/tiwut/Tiwut-CLI/refs/heads/main/Remote/neofetch_lite.sh",
+    "sha256": "8fce4d436cfab880dc3e3a98a0980cfb9c2f6d0f8623b006c9a7213eb98162f4",
+    "install_linux": "chmod +x neofetch_lite.sh && cp neofetch_lite.sh ~/.local/bin/neofetch-lite",
+    "install_macos": "chmod +x neofetch_lite.sh && cp neofetch_lite.sh ~/.local/bin/neofetch-lite",
+    "exec": "neofetch-lite"
+  },
+  {
+    "id": "cowsay-lite",
+    "name": "Cowsay Lite",
+    "icon": "[C]",
+    "version": "1.0.0",
+    "description": "A tiny shell utility that displays a speaking or thinking cow.",
+    "supported_os": "linux,macos",
+    "dependencies": "bash",
+    "download_url": "https://raw.githubusercontent.com/tiwut/Tiwut-CLI/refs/heads/main/Remote/cowsay_lite.sh",
+    "sha256": "4b68ff5f3964db2b0754db12be3e95ad9e6704b2b2b13ed8c2e68ee570415392",
+    "install_linux": "chmod +x cowsay_lite.sh && cp cowsay_lite.sh ~/.local/bin/cowsay-lite",
+    "install_macos": "chmod +x cowsay_lite.sh && cp cowsay_lite.sh ~/.local/bin/cowsay-lite",
+    "exec": "cowsay-lite"
+  }
+]

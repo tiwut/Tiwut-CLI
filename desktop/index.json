@@ -1,0 +1,8 @@
+{
+    "apps": [
+        "desktop/browser.json",
+        "desktop/github.json",
+        "desktop/theme.json",
+        "desktop/about.json"
+    ]
+}
