@@ -5,6 +5,16 @@ Tiwut-CLI is an advanced, lightweight, single-window terminal desktop environmen
 The application implements a high-performance single-buffer rendering pipeline, an integrated developer terminal, a live system monitor, a dynamic application launcher, a remote GitHub repository manager with an interactive file browser, and a secure decentralized App Store featuring strict SHA-256 verification.
 
 ---
+## Install via Homebrew -> MacOS & Linux
+
+```bash
+brew tap Nexus-Titan/tab https://github.com/Nexus-Titan/homebrew-tap.git
+brew update
+brew install tiwut-cli
+
+# Run with:
+Tiwut-CLI
+```
 
 ## Key Features
 
